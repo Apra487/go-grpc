@@ -1,8 +1,8 @@
 # Basic Go gRPC Server and Client
 
-This is a basic gRPC server and client written in Go. It is based on the [gRPC Quickstart](https://grpc.io/docs/quickstart/go.html) and [gRPC Basics: Go](https://grpc.io/docs/tutorials/basic/go.html) tutorials.
+This is a simple gRPC server and client written in Go. It is based on the [gRPC Quickstart](https://grpc.io/docs/quickstart/go.html) and [gRPC Basics: Go](https://grpc.io/docs/tutorials/basic/go.html) .
 
-We have implemented a simple gRPC server and client with the following functionality:
+We have implemented a the following functionality:
 - simple RPC
 - server-side streaming RPC
 - client-side streaming RPC
@@ -73,3 +73,13 @@ go run server/main.go
 ```bash
 go run client/main.go
 ```
+
+# License
+
+<div align="center">  
+<br>
+
+<img width=35% src="https://media0.giphy.com/media/3ornjXbo3cjqh2BIyY/200.gif"></p>
+
+<br>
+</div>
